@@ -1,7 +1,6 @@
 # CS1332
----
 ## 🏫 Georgia Tech Data Structures and Algorithms (Fall 2022)
-
+---
 * **HW01:** ArrayList Implementation
 * **HW02:** Doubly Linked List Implementation
 * **HW03:** Deque Implementation
