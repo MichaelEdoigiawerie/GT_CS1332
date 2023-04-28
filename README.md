@@ -5,7 +5,7 @@
 * **HW03:** Deque Implementation
 * **HW04:** Binary Search Tree Implementation
 * **HW05:** Min Heap Implementation
-* **HW06:** HashMap Implementation
+* **HW06:** Hash Map Implementation
 * **HW07:** AVL Tree Implementation
 * **HW08:** Sorting Algorithms
 * **HW09:** Pattern Matching Algorithms
