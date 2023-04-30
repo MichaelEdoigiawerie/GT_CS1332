@@ -13,7 +13,7 @@ Great code has its foundation built upon data structures and algorithms. One mus
 - Become familiar with common algorithms on these data structures
     - Sorting Algorithms: Bubble, Insertion, Selection, Cocktail Shaker, Merge, Quick, Radix, etc...
     - Pattern Matching Algorithms: Brute force, Boyer-Moore, KMP, Rabin-Karp, Galil Rule
-    - Graph Algorithms: Breadth-First Search, Depth-First Search, Dijkstra’s Shortest Path, MSTs
+    - Graph Algorithms: Breadth-First Search, Depth-First Search, Dijkstra’s Shortest Path, Minimum Spanning Trees
     - Dynamic Programming Algorithms
 - Work with Big-O notation, allowing good choices about the appropriate data structure and algorithm to use for a particular programming problem
 - Improve one's ability to test and debug programs
